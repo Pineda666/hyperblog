@@ -1,4 +1,1 @@
-esta es una prueba de texto
-y ahora la estoy editando
-ahora es una tercera edicion
-otro parrafo manolo
+cambiando nuevamente el texto desde cero
