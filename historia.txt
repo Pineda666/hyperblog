@@ -1,1 +1,4 @@
-cambiando nuevamente el texto desde cero
+esta es una prueba de texto
+y ahora la estoy editando
+ahora es una tercera edicion
+este parrafo queda como el definitivo
